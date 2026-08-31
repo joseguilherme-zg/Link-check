@@ -44,3 +44,5 @@ async function processaTexto(argumentos){
     }
 
 }
+
+processaTexto(caminho)
